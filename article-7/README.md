@@ -11,3 +11,5 @@ Motion-induced aerodynamic forces play a fundamental role in the stability and b
 This is an open access published journal article. It is available for download below, and also available through the journal's website:  
 [https://www.sciencedirect.com/science/article/pii/S0167610524003003?via%3Dihub](https://doi.org/10.1016/j.jweia.2024.105937)
 
+[Download Article](article-7/Time-domain-state-space-model-formulation-of-motion-induced-aerodynamic-forces-on-bridge-decks.pdf)
+
