@@ -17,4 +17,4 @@ The final published version of this article is available at:
 [Journal Link](https://www.journals.elsevier.com/journal-of-wind-engineering-and-industrial-aerodynamics)
 
 ## License
-This work is licensed under a Creative Commons Attribution 4.0 International (CC BY 4.0) license.
+This work is licensed under a Creative Commons Attribution 4.0 International (CC-BY-NC-ND 4.0) license [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/).
