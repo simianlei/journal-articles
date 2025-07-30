@@ -8,7 +8,7 @@ Welcome to my GitHub repository for my published research articles. Below are th
 - [Article 4](article-4/README.md)
 - [Article 5](article-5/README.md)
 - [Article 6](article-6/README.md)
-- [Articles 7](article-7/README.md)
+- [Time-domain state-space model formulation of motion-induced aerodynamic forces on bridge decks](article-7/README.md)
 - [Article 8](article-8/README.md)
 
 ## Repository Structure
