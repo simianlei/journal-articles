@@ -1,6 +1,7 @@
 # Accepted Manuscript: State augmentation method for multimode nonstationary vibrations of long-span bridges under extreme winds
 
 **Authors**: Simian Lei, Wei Cui, Luca Patruno, Stefano de Miranda, Lin Zhao, Yaojun Ge
+
 **Journal**: Engineering Structures  
 **DOI**: [https://doi.org/10.1016/j.engstruct.2025.120021](https://doi.org/10.1016/j.engstruct.2025.120021)
 
