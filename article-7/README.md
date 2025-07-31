@@ -1,4 +1,4 @@
-# Article Title: Time-domain state-space model formulation of motion-induced aerodynamic forces on bridge decks
+# Published Journal Article: Time-domain state-space model formulation of motion-induced aerodynamic forces on bridge decks
 **Authors**: Simian Lei, Luca Patruno, Claudio Mannini, Stefano de Miranda, Yaojun Ge  
 **Journal**: Journal of Wind Engineering and Industrial Aerodynamics
 **DOI**: https://doi.org/10.1016/j.jweia.2024.105937 
