@@ -9,7 +9,7 @@ The basic assumptions of stationary/Gaussian excitations and temporal independen
 
 ## Accepted Manuscript
 This is the accepted manuscript version of the article and can be found below. It has been peer-reviewed and accepted for publication but has not yet been formatted by the publisher.
-[Download Accepted Manuscript](2024-JWEIA-105747-AAM.pdf)
+[Download Accepted Manuscript](24JWEIA105747.pdf)
 
 ## Published Version
 The final published version of this article is available at:
@@ -25,3 +25,4 @@ As per the publisher’s policy, the accepted manuscript is being shared here fo
 This GitHub repository is intended solely for **non-commercial academic use** and functions as a **personal homepage** for the academic sharing of my research. It is not intended for any **commercial purposes**.
 
 By hosting this manuscript here, I comply with the publisher’s guidelines, as GitHub is used as a **non-commercial personal hosting platform**, similar to a **personal blog** or **academic website**. I share this manuscript for academic and research purposes only, and it is publicly available for educational use.
+
