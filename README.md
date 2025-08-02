@@ -11,4 +11,9 @@ Welcome to my GitHub repository for my published research articles. Below are th
 - [Time-domain state-space model formulation of motion-induced aerodynamic forces on bridge decks](article-7/README.md)
 - [State augmentation method for multimode nonstationary vibrations of long-span bridges under extreme winds](article-8/README.md)
 
-## Repository Structure
+## Publisher's Policy Compliance
+This repository is hosted on **GitHub** as a **non-commercial personal homepage** for academic sharing. It complies with the publisher's policy allowing authors to share the **Accepted Manuscripts** publicly on non-commercial platforms like personal blogs and academic repositories. 
+
+For the **final published version**, please refer to the official journal website or use the **DOI** link provided by the publisher where the manuscript has been fully formatted and published.
+
+By hosting this manuscript on GitHub, I acknowledge that I am sharing it in accordance with the publisher's self-archiving guidelines and for **non-commercial academic use** only.
