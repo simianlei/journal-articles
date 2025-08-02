@@ -11,5 +11,6 @@ Motion-induced aerodynamic forces play a fundamental role in the stability and b
 This is an open access published journal article. It is available for download below, and also available through the journal's website:  
 [https://www.sciencedirect.com/science/article/pii/S0167610524003003?via%3Dihub](https://doi.org/10.1016/j.jweia.2024.105937)
 
-[Download Article](2024-JWEIA-105937-PJA.pdf)
+[Download Article](24JWEIA105937.pdf)
+
 
